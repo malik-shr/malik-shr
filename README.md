@@ -2,8 +2,6 @@
 
 I'm a Business Informatics student who enjoys building software, learning new technologies, and figuring out how things work along the way.
 
-Currently working at **[Volulinik](https://github.com/VoluLink)**.
-
 ## Selected Projects
 
 ### [CARA](https://github.com/malik-shr/cara)
