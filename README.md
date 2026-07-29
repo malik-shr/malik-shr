@@ -44,3 +44,6 @@ A Celeste-inspired precision platformer built from scratch using JavaScript and 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat\&logo=vite\&logoColor=white)
+
+## Connect
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/malik-sharkawy-063089360/))
