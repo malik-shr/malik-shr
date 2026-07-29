@@ -47,4 +47,4 @@ A Celeste-inspired precision platformer built from scratch using JavaScript and 
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/malik-sharkawy-063089360/) 
+<a href="https://www.linkedin.com/in/malik-sharkawy-063089360/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
